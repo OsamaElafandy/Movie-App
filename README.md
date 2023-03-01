@@ -1,16 +1,22 @@
-# arch
+# Movie App
 
-A new Flutter project.
 
-## Getting Started
+## Photos
+### Mobile
 
-This project is a starting point for a Flutter application.
+<p align="center">
+<img src="https://firebasestorage.googleapis.com/v0/b/activegym-1c716.appspot.com/o/movie%20app%2Fhome-min.png?alt=media&token=102d8abf-32a5-414a-b2cd-cf265adf366f"  height="60%" width="40%" >
+<img src="https://firebasestorage.googleapis.com/v0/b/activegym-1c716.appspot.com/o/movie%20app%2Fhome2-min.png?alt=media&token=ad3ac35b-9c8a-4751-a511-8dd2c468ecef"  height="60%" width="40%" >
+<img src="https://firebasestorage.googleapis.com/v0/b/activegym-1c716.appspot.com/o/movie%20app%2Fdetail-min.png?alt=media&token=7c625a29-f50d-4178-aa05-c3094c112488"  height="60%" width="40%" >
+<img src="https://firebasestorage.googleapis.com/v0/b/activegym-1c716.appspot.com/o/movie%20app%2Fdetail1-min.png?alt=media&token=7c6e5cbd-5dcc-42ef-a5d0-2b6e708cfd44"  height="60%" width="40%" >
+</p>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+
+
